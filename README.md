@@ -1,4 +1,4 @@
-# BlinkIT_Analysis
+# BlinkIT_Analysis 📉
 
 The BlinkIT data analysis project aims to harness the capabilities of Power BI to transform raw data into actionable insights. By analyzing various data sources, including sales, customer feedback, and operational metrics, we seek to identify trends, opportunities, and areas for improvement.
 
@@ -8,18 +8,18 @@ Power BI's robust visualization tools will allow us to create interactive dashbo
   ### Steps in project:
   ### Business requirement:
   #### KPI's Requirements:
-            1. Total Sales
-            2. Average Sales
-            3. Number of Items
-            4. Average Rating
+            ↪️ Total Sales
+            ↪️ Average Sales
+            ↪️ Number of Items
+            ↪️ Average Rating
   #### Chart's Requirements:
-            1. Total Sales by Fat Content
-            2. Total Sales by Item Type
-            3. Fat Content by Outlet for Total Sales
-            4. Total Sales by Outlet Establishment
-            5. Sales by Outlet Size
-            6. Sales by Outlet Location
-            7. All Metrics try Outlet Type
+            ▶️ Total Sales by Fat Content
+            ▶️ Total Sales by Item Type
+            ▶️ Fat Content by Outlet for Total Sales
+            ▶️ Total Sales by Outlet Establishment
+            ▶️ Sales by Outlet Size
+            ▶️ Sales by Outlet Location
+            ▶️ All Metrics try Outlet Type
 
 ## Steps in Project:
             ➡️ Requirement Gathering / Business Requirements

@@ -91,6 +91,9 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 ![Screenshot 2024-10-21 175337](https://github.com/user-attachments/assets/6a19f5d9-2cfd-4d58-86f6-c088f01bd0d7)
 
 
+## Dashboard:
+
+![Screenshot 2024-10-25 194749](https://github.com/user-attachments/assets/9fa5adc3-3150-459c-85a3-fe8edc6e05ac)
 
 
 
